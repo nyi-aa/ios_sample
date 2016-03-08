@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: ios_sample.xcodeproj
+xcode_scheme: ios_sample
