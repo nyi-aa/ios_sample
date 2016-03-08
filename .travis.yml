@@ -1,3 +1,4 @@
 language: objective-c
 xcode_project: ios_sample.xcodeproj
 xcode_scheme: ios_sample
+osx_image: xcode7.2
